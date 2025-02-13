@@ -14,4 +14,3 @@ public class exercicio8lista1 {
 //100000.0 em milímetros
 //10000.0 em centímetros
 //0.01 em quilômetros
-//Process finished with exit code 0
