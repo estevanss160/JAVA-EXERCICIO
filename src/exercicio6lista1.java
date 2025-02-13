@@ -10,3 +10,6 @@ public class exercicio6lista1 {
 
     }
 }
+//insira um valor: 10
+//O antecessor de 10.0 é 9.0
+//O sucessor de 10.0 é 11.0
