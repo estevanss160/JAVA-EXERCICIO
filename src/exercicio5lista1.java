@@ -1,3 +1,6 @@
+//Faça um programa em Java que leia as duas notas de um aluno em uma matéria e
+//mostre na tela a sua média na disciplina.
+
 import java.util.Scanner;
 public class exercicio5lista1 {
     public static void main(String[] args) {
