@@ -12,3 +12,5 @@ public class exercicio15lista1 {
     System.out.print("salário do mês "+salario);
     }
 }
+//Quantidade de dias trabalhados: 10
+//salário do mês 2000.0
