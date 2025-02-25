@@ -7,7 +7,7 @@ import java.util.Scanner;
 public class exercicio16lista1 {
     public static void main(String[] args) {
         Scanner teclado = new Scanner(System.in);
-        System.out.print("Quantos cigarros você fuma por dia atualmente? ");
+        System.out.print("Quantos cigarros você fuma por dia? ");
         int qtd_cigarros = teclado.nextInt();
         System.out.print("Quantos anos você fuma? ");
         float qtd_anos = teclado.nextFloat();
